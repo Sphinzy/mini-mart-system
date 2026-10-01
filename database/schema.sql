@@ -1,0 +1,1 @@
+-- Mini Mart System database schema
